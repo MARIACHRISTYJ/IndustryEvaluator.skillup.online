@@ -1,1 +1,0 @@
-# IndustryEvaluator.skillup.online
